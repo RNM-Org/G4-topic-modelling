@@ -43,24 +43,13 @@ Pre-requisites:
 
 <details>
     <summary><b>Windows</b></summary>
-    Installation steps:
+    Installation steps: <br>
 1. In your CLI/Git Bash - run the following command - git clone https://github.com/RNM-Org/G4-topic-modelling.git. <br>
 2. run cd main_website <br>
 3. run python manage.py runserver. <br>
 4. Your website should be up and running on port http://127.0.0.1:8000/ <br>
 </details>
 
-<details>
-    <summary><b>Linux</b></summary>
-    Installation steps
-
-</details>
-
-<details>
-    <summary><b>macOS</b></summary>
-    Installation steps
-
-</details>
 
 ### Navigation
 
@@ -69,9 +58,6 @@ Pre-requisites:
  - Page 3 - About US
  - Page 4 - About NLP
 
-<details>
-    <summary><b>Show instructions</b></summary>
-</details>
 
 ## Team
 
