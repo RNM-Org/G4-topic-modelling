@@ -38,7 +38,8 @@ Pre-requisites:
 7. Wordcloud
 8. Docx
 9. PyPDF2
-10. en_core_web_sm  
+10. en_core_web_sm
+11. BeautifulSoup  
 
 
 <details>
