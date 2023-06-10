@@ -43,11 +43,11 @@ Pre-requisites:
 
 <details>
     <summary><b>Windows</b></summary>
-    Installation steps
-1. In your CLI/Git Bash - run the following command - git clone https://github.com/RNM-Org/G4-topic-modelling.git.
-2. run cd main_website
-3. run python manage.py runserver.
-4. Your website should be up and running on port http://127.0.0.1:8000/
+    Installation steps:
+1. In your CLI/Git Bash - run the following command - git clone https://github.com/RNM-Org/G4-topic-modelling.git. <br>
+2. run cd main_website <br>
+3. run python manage.py runserver. <br>
+4. Your website should be up and running on port http://127.0.0.1:8000/ <br>
 </details>
 
 <details>
