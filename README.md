@@ -29,15 +29,25 @@ Given a certain piece of text/paragraph/article you have to develop a topic mode
 ### Installation 
 
 Pre-requisites:
-
-- Package ABC
-- Tool XYZ
+1. Spacy
+2. NLTK 
+3. re (Regular Expression)
+4. collections
+5. Matplotlib
+6. Django
+7. Wordcloud
+8. Docx
+9. PyPDF2
+10. en_core_web_sm  
 
 
 <details>
     <summary><b>Windows</b></summary>
     Installation steps
-
+    1. In your CLI/Git Bash - run the following command - git clone https://github.com/RNM-Org/G4-topic-modelling.git.
+    2. run cd main_website
+    3. run python manage.py runserver.
+    4. Your website should be up and running on port http://127.0.0.1:8000/
 </details>
 
 <details>
@@ -54,13 +64,14 @@ Pre-requisites:
 
 ### Navigation
 
- - Page 1
- - Page 2
+ - Page 1 - Home
+ - Page 2 - Tool
+ - Page 3 - About US
+ - Page 4 - About NLP
 
 <details>
     <summary><b>Show instructions</b></summary>
 </details>
-
 
 ## Team
 
